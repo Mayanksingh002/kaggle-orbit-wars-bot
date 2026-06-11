@@ -1,3 +1,19 @@
-# kaggle-orbit-wars-bot
-🚀 An advanced Python-based AI agent for the Kaggle Orbit Wars competition, designed around strategic expansion, production optimization, and coordinated planetary warfare.
-AI-powered Orbit Wars bot for Kaggle competition featuring orbit prediction, economy-focused expansion, and multi-source coordinated attack strategies.
+# Kaggle Orbit Wars Bot
+
+AI-powered Orbit Wars bot for Kaggle competition featuring:
+
+- Orbit prediction
+- Sun avoidance
+- Economy-first expansion
+- Multi-source coordinated attacks
+- Production-based target selection
+
+## Tech Stack
+
+- Python
+- Kaggle Environments
+
+## Results
+
+Current Public Score: 476+
+Competition: Orbit Wars
